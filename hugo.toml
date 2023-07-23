@@ -44,6 +44,12 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/mrhota/"
 
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-2x fa-linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/nmodprime/"
+
 # Menu links
 [[menu.main]]
   name = "Blog"
@@ -53,3 +59,11 @@ style = "github-dark"
   name = "About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "Interests"
+  weight = 3
+  url = "interests/"
+[[menu.main]]
+  name = "Projects"
+  weight = 4
+  url = "projects/"
