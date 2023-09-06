@@ -67,3 +67,7 @@ style = "github-dark"
   name = "Projects"
   weight = 4
   url = "projects/"
+[[menu.main]]
+  name = "Alphabet Superset"
+  weight = 5
+  url = "weeklies/"
