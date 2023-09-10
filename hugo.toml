@@ -7,6 +7,8 @@ paginate = 20
 
 [markup.highlight]
 style = "github-dark"
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
   author = "AJ Gardner"
