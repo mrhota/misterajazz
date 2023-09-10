@@ -1,4 +1,4 @@
-baseURL = 'http://misterajazz.com/'
+baseURL = 'http://mrhota.github.io/misterajazz'
 languageCode = 'en-us'
 title = 'Mr. A Jazz'
 theme = 'hugo-coder'

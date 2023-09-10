@@ -7,7 +7,7 @@ description: "A (crappy) tool to help you apologize."
 
 Well, look no further! This tool will help you apologize to your friends, family, loved ones, and strangers on the street.
 
-<script src="/js/a.js"></script>
+{{< loadJS "a" >}}
 
 <div id="apology-helper">
   <div id="question1">
