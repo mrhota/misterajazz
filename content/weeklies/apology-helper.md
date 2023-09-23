@@ -1,6 +1,7 @@
 ---
 title: "Apology Helper"
 description: "A (crappy) tool to help you apologize."
+date: 2023-09-11T15:00:00-04:00
 ---
 
 # Do you need to apologize?
