@@ -14,3 +14,5 @@ Using Quil as a wrapper around P5.js enabled me to use a React-like style of pro
 The primary side effect of this style of programming is that the clojurescript implementation creates much more garbage than the original Javascript implementation.
 
 {{< loadJS "f" >}}
+
+<div id="app"></div>
